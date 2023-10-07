@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icons_site_text">Awesome icons collection on <a href="https://freeicons.io">freeicons.io</a></string>
+    <string name="activity_main_title">Your Garage</string>
+    <string name="change_language_title">Change language</string>
+    <string name="icon_authors_title">Icon authors</string>
+    <string name="app_creator_title">App Creator</string>
+    <string name="add_car_activity_title">Add car</string>
+    <string name="car_name_input">Name</string>
+    <string name="car_inspection_text">Inspection expiry</string>
+    <string name="car_insurance_text">Insurance expiry</string>
+    <string name="notify_me_text">Notify me:</string>
+    <string name="month_before_text">Month\nbefore</string>
+    <string name="week_before_text">Week\nbefore</string>
+    <string name="day_before_text">Day\nbefore</string>
+    <string name="add_notification_text_button">Add\nnotification</string>
+    <string name="demo_view_text">Demo view</string>
+    <string name="choose_image_text_button">Choose image</string>
+    <string name="no_cars_text">No cars</string>
+    <string name="both_dates_wrong_toast">Wrong car inspection and car insurance date</string>
+    <string name="no_car_name_toast">No car name entered</string>
+    <string name="no_dates_toast">No date entered</string>
+    <string name="expired_insurance_date_toast">Your insurance date  is outdated!</string>
+    <string name="expired_inspection_date_toast">Your inspection date is outdated!</string>
+    <string name="no_date_text">None</string>
+    <string name="car_name_text">Car name</string>
+    <string name="dialog_warn_title">Warning!</string>
+    <string name="dialog_dont_show_again_text">Don\'t show again</string>
+    <string name="dialog_image_info_text">The selected photo will be saved in the application\'s memory until the vehicle is deleted.\n\nPreferred selection of photos in landscape form to better adapt to the vehicle card</string>
+    <string name="wrong_insurance_date_toast">Wrong car insurance date</string>
+    <string name="wrong_inspection_date_toast">Wrong car inspection date</string>
+    <string name="notification_not_set_toast">You have not selected any notification</string>
+
+    <string name="inspection_month">Inspection for %1$s will expire in a month! (%2$s)</string>
+    <string name="inspection_week">Inspection for %1$s will expire in a week! (%2$s)</string>
+    <string name="inspection_day">Inspection for %1$s will expire tomorrow! (%2$s)</string>
+    <string name="insurance_month">Insurance for %1$s will expire in a month! (%2$s)</string>
+    <string name="insurance_week">Insurance for %1$s will expire in a week! (%2$s)</string>
+    <string name="insurance_day">Insurance for %1$s will expire tomorrow! (%2$s)</string>
+
+    <string name="car_deleted_unsuccessfully">Błąd podczas usuwania pojazdu</string>
+    <string name="settings_tutorial_text">Click here to open settings</string>
+    <string name="add_car_tutorial_text">Add new car here!</string>
+    <string name="date_calendar_tutorial_text">Click twice to open calendar</string>
+
+
+</resources>

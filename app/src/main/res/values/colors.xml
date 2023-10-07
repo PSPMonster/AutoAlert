@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_bg">#eee</color>
+
+    <!--  CARD BODY  -->
+    <color name="card_bg">#ECF4FE</color>
+    <color name="card_border">#2499CC</color>
+
+
+    <!--  ERROR LAYOUT COLOR  -->
+    <color name="error_layout">#B00020</color>
+
+    <!--  DEFAULT INPUT BORDER COLOR  -->
+    <color name="default_input_border">#898D89</color>
+
+    <color name="primary_blue">#0b658a</color>
+    <color name="primary_red">#C82814</color>
+
+
+    <color name="input_bg">#3d3d3d</color>
+
+</resources>

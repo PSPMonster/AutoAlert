@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">AutoAlert</string>
+
+    <!--  MAIN ACTIVITY  -->
+    <string name="activity_main_title">Twój Garaż</string>
+    <string name="no_cars_text">Brak pojazdów</string>
+
+
+    <!--  SETTINGS  -->
+    <string name="change_language_title">Zmień język</string>
+    <string name="icon_authors_title">Autorzy ikon</string>
+    <string name="support_app_title">Wesprzyj aplikację</string>
+    <string name="app_creator_title">Twórca aplikacji</string>
+    <string name="main_icons_text" translatable="false"><a href="https://freeicons.io/profile/3335">MD Badsha Meah</a></string>
+    <string name="ui_icons_text" translatable="false"><a href="https://freeicons.io/profile/2257">www.wishforge.games</a></string>
+    <string name="flags_icons_text" translatable="false"><a href="https://freeicons.io/profile/8939">Melvin ilham Oktaviansyah</a></string>
+    <string name="trash_icon_text" translatable="false"><a href="https://freeicons.io/profile/5790">ColourCreatype</a></string>
+    <string name="app_github_text" translatable="false"><a href="https://github.com/PSPMonster/AutoAlert">wikdev</a></string>
+    <string name="icons_site_text">Wspaniała kolekcja ikon na <a href="https://freeicons.io">freeicons.io</a></string>
+
+    <!--  ADD CAR ACTIVITY  -->
+    <string name="add_car_activity_title">Dodaj samochód</string>
+    <string name="car_name_input">Nazwa</string>
+    <string name="car_inspection_text">Ważność przeglądu</string>
+    <string name="car_insurance_text">Ważność OC</string>
+    <string name="notify_me_text">Powiadom mnie:</string>
+    <string name="month_before_text">Miesiąc\nprzed</string>
+    <string name="week_before_text">Tydzień\nprzed</string>
+    <string name="day_before_text">Dzień\nprzed</string>
+    <string name="add_notification_text_button">Dodaj\npowiadomienie</string>
+    <string name="demo_view_text">Wygląd demonstracyjny</string>
+    <string name="choose_image_text_button">Wybierz zdjęcie</string>
+    <string name="car_name_text">Nazwa samochodu</string>
+    <string name="no_date_text">Brak</string>
+    <string name="dialog_warn_title">Uwaga!</string>
+    <string name="dialog_dont_show_again_text">Nie pokazuj więcej</string>
+    <string name="dialog_image_info_text">Wybrane zdjęcie zostanie zapisane w pamięci aplikacji do czasu usunięcia pojazdu.\n\nZalecamy wybór zdjęcia w formie poziomej, aby lepiej dostosować się do karty pojazdu. </string>
+    <string name="wrong_insurance_date_toast">Błędna data ubezpieczenia samochodu</string>
+    <string name="wrong_inspection_date_toast">Błędna data przeglądu samochodu</string>
+    <string name="both_dates_wrong_toast">Błędna data przeglądu samochodu i ubezpieczenia samochodu</string>
+    <string name="no_car_name_toast">Nie wprowadzono nazwy samochodu</string>
+    <string name="no_dates_toast">Nie wprowadzono żadnej daty</string>
+    <string name="expired_insurance_date_toast">Twoja data ubezpieczenia jest przestarzala!</string>
+    <string name="expired_inspection_date_toast">Twoja data przeglądu jest przestarzala!</string>
+    <string name="notification_not_set_toast">Nie wybrałeś żadnego powiadomienia</string>
+
+    <!--  NOTIFICATIONS  -->
+    <string name="inspection_month">Przegląd %1$s traci ważność za miesiąc! (%2$s)</string>
+    <string name="inspection_week">Przegląd %1$s traci ważność za tydzień! (%2$s)</string>
+    <string name="inspection_day">Przegląd %1$s traci ważność już jutro! (%2$s)</string>
+    <string name="insurance_month">Termin ważności ubezpieczenia %1$s upływa za miesiąc! (%2$s)</string>
+    <string name="insurance_week">Termin ważności ubezpieczenia %1$s upływa za tydzień! (%2$s)</string>
+    <string name="insurance_day">Termin ważności ubezpieczenia %1$s upływa już jutro! (%2$s)</string>
+
+
+    <!-- TOASTS -->
+    <string name="car_deleted_unsuccessfully">Błąd podczas usuwania</string>
+
+    <!--  TUTORIAL  -->
+    <string name="settings_tutorial_text">Aby otworzyć ustawienia kliknij tutaj</string>
+    <string name="add_car_tutorial_text">Dodaj nowy pojazd!</string>
+    <string name="date_calendar_tutorial_text">Klinkij dwa razy aby otworzyć kalendarz\ni wybrać datę jeszcze szybciej</string>
+
+
+</resources>

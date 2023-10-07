@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AutoAlert" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/primary_blue</item>
+
+    </style>
+
+    <!--  TextInputLayoutStyle  -->
+    <style name="MyTextInputLayoutStyle" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary_blue</item>
+        <item name="counterTextColor">@color/primary_blue</item>
+        <item name="hintTextColor">@color/primary_blue</item>
+    </style>
+
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+        <item name="elevation">15dp</item>
+    </style>
+
+    <style name="MaterialCalendarTheme" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorAccent">@color/primary_red</item>
+    </style>
+
+
+
+    <style name="Theme.AutoAlert" parent="Base.Theme.AutoAlert" />
+</resources>
