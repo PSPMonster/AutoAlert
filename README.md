@@ -45,8 +45,8 @@ Never miss a deadline again and keep your vehicle in top condition effortlessly.
 
 <table>
   <tr>
-    <td><img src="https://github.com/PSPMonster/AutoAlert/blob/main/ss/en/Screenshot_1692792056.png?raw=true" width="50%" height="600"></td>
-    <td><img src="https://github.com/PSPMonster/AutoAlert/blob/main/ss/en/Screenshot_1692792192.png?raw=true" width="50%" height="600"></td>
+    <td><img src="https://github.com/PSPMonster/AutoAlert/blob/main/ss/en/Screenshot_1692792056.png?raw=true" height="500px"></td>
+    <td><img src="https://github.com/PSPMonster/AutoAlert/blob/main/ss/en/Screenshot_1692792192.png?raw=true" height="500px"></td>
   </tr>
 </table>
 
