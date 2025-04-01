@@ -9,7 +9,7 @@ Never miss a deadline again and keep your vehicle in top condition effortlessly.
 <p align="center">
   <img src="https://github.com/PSPMonster/AutoAlert/assets/63736028/19c7cfc4-8afe-4df5-9fd1-a05e9fb6c9df" width="190" height="130"/>
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdO1AWeq8wLg6-pcOH37POkyTeW-rdsaN1lTN9OS2iYkxH_D3-3vqG6wYS7Q9tDAA7t-mOqAIZ17jvkqfM67kkS5cqmJjI_Xcn96S5azE0BJWoLp-bzpzIXfSNYZpYolvLINECyb772PGSS2IRdmktQZ-Nsx1c5cEMm877-SI2Hp1eRKO4SwLlRb7TPA/s1600/Android%20Studio%20-%20Header.png" width="370" height="130" />
-  <img src="https://github.com/PSPMonster/Faraday-Map/assets/63736028/7ff49e55-348a-41bb-b383-6a65de5ee37d" width="230" height="130"/>
+  <img src="https://github.com/PSPMonster/Faraday-Map/assets/63736028/7ff49e55-348a-41bb-b383-6a65de5ee37d" width="20%" height="130"/>
 
   
 </p>
