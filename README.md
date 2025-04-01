@@ -42,7 +42,7 @@ Never miss a deadline again and keep your vehicle in top condition effortlessly.
 </ul>
 
 # SCREENS
-![Alt text](https://github.com/PSPMonster/AutoAlert/blob/main/ss/en/Screenshot_1692792056.png?raw=true.png?raw=true "Optional Title")
+<img src="https://github.com/PSPMonster/AutoAlert/blob/main/ss/en/Screenshot_1692792056.png?raw=true.png?raw=true" width="auto" height="130"/>
 
 
 
