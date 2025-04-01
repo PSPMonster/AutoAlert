@@ -41,6 +41,10 @@ Never miss a deadline again and keep your vehicle in top condition effortlessly.
   </ul>
 </ul>
 
+# SCREENS
+![Alt text](/ss/Screenshot_1692792056.png?raw=true "Optional Title")
+
+
 
 # How to Use AutoAlert
 <ol>
